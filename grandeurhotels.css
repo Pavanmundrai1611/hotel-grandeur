@@ -98,3 +98,7 @@ footer{
     text-align: center;
 }
 footer>a{font-family:'Lucida Handwriting',cursive;"}
+    @media screen and (max-width:1020px) {
+    .navbar{right:25%;}
+    footer>a{font-size: 15px;}
+}
